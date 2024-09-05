@@ -14,7 +14,7 @@ function Skills() {
         <br /> Firebase, Appwrite,{" "}
         <span className="text-red-400">REST APIs</span>, Draft.js, TinyMCE,
         GSAP,
-        <span className="text-red-400">Framer Motion</span>, Shadcn, RadixUI
+        <span className="text-red-400"> Framer Motion</span>, Shadcn, RadixUI
       </p>
       <p>
         <strong className="text-green-500">Version Control</strong>
